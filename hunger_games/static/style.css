@@ -1,0 +1,7 @@
+<style>
+	body{
+		background-color: #efe9cc;
+		/*background-image: url('img/background.jpg');*/
+		/*background-image: url({{ url_for ('static', filename = 'img/background.jpg') }});*/
+	}
+</style>
